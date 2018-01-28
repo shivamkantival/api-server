@@ -459,16 +459,6 @@
         "team": "Teamless",
         "title": ""
     },
-    "U0NSSM90D": {
-        "color": "dc7dbb",
-        "first_name": "Teresa",
-        "id": "U0NSSM90D",
-        "image": "https://avatars.slack-edge.com/2016-02-24/22927325556_aac12e6ad6c5c74f38e0_512.png",
-        "last_name": "LoJacono ",
-        "location": null,
-        "team": "Teamless",
-        "title": null
-    },
     "U0V0640N5": {
         "color": "9d8eee",
         "first_name": "Miranda",
@@ -568,26 +558,6 @@
         "location": "America/New_York",
         "team": "Store",
         "title": "90 Orchard Squad"
-    },
-    "U2UV7MFSM": {
-        "color": "5a4592",
-        "first_name": "Lindsey",
-        "id": "U2UV7MFSM",
-        "image": "https://avatars.slack-edge.com/2016-10-27/97022021030_498d9d4060ac72cfc835_512.jpg",
-        "last_name": "",
-        "location": "Europe/Amsterdam",
-        "team": "Teamless",
-        "title": ""
-    },
-    "U2WCDE9NW": {
-        "color": "db3150",
-        "first_name": null,
-        "id": "U2WCDE9NW",
-        "image": "https://secure.gravatar.com/avatar/0be25c8dc29325ae18529b941f416aa7.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0021-512.png",
-        "last_name": null,
-        "location": "America/New_York",
-        "team": "Teamless",
-        "title": null
     },
     "U2X09S59V": {
         "color": "235e5b",
