@@ -42,7 +42,7 @@ class Contacts(Resource):
             if v is None:
                 continue
             for user_id, contact in contacts.iteritems():
-                if v in contact[k]:
+                if v.lower() in contact[k].lower():
                     results[user_id] = contact
         return results.values()
 
