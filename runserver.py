@@ -50,7 +50,7 @@ class Contacts(Resource):
     def post(self):
         args = parser.parse_args()
         contact = args
-        user_id = str(uuid.uuid4())
+        user_id = str(uuid.uuid4().hex)
         contact['id'] = user_id
         contacts[user_id] = contact
         return contact
